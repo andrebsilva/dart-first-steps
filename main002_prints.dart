@@ -1,4 +1,4 @@
-/// author: BARCELOS, André <barcelos.ds at gmail.com>
+/// author: BARCELOS, André <andrebsilva86@gmail.com>
 /// main: the default function of execution when a .dart file is executed
 /// Many ways to print some text
 /// run: dart main002_prints.dart

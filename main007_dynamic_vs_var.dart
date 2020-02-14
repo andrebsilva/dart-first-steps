@@ -1,4 +1,4 @@
-/// author: BARCELOS, André <barcelos.ds at gmail.com>
+/// author: BARCELOS, André <andrebsilva86@gmail.com>
 /// main: the default function of execution when a .dart file is executed
 /// 'dynamic' vs 'var', data types
 /// run: dart main007_dynamic_vs_var.dart

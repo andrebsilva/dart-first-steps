@@ -1,4 +1,4 @@
-/// author: BARCELOS, André <barcelos.ds at gmail.com>
+/// author: BARCELOS, André <andrebsilva86@gmail.com>
 /// main: the default function of execution when a .dart file is executed
 /// Dart data types
 /// run: dart main003_data_types.dart

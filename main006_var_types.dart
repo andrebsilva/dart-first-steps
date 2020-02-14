@@ -1,4 +1,4 @@
-/// author: BARCELOS, André <barcelos.ds at gmail.com>
+/// author: BARCELOS, André <gmail.com>
 /// main: the default function of execution when a .dart file is executed
 /// 'var' types
 /// run: dart main006_var_types.dart
